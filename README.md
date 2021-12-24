@@ -109,4 +109,5 @@ Why we do review?
 
 When and who merge the pull request?
     • In a pull request, you propose that changes you've made on a head branch should be merged into a base branch.
-    •  By default, any pull request can be merged at any time, unless the head branch is in conflict with the base branch.
+    •  By default, any pull request can be merged at any time, unless the head branch is in conflict with the base branch 
+  .
